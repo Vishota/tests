@@ -1,11 +1,10 @@
+Root folder is app/public
+
 ## Types
+
 ### Expected JSON format
 
 ```ts
-//  | tests
-//  | | groups
-//  | | - nikita.json
-//  | |
 
 type TestsInput = TestsGroup[]
 

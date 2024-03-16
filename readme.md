@@ -43,7 +43,7 @@ type InterpretationRule = {
 
 ## Examples
 
-### ./tests/groups.json
+### ./data/groups.json
 
 ```json
 [
@@ -57,7 +57,7 @@ type InterpretationRule = {
 ]
 ```
 
-### ./tests/lie.json
+### ./data/tests/lie.json
 ```json
 {
     "title": "Являетесь ли вы Никитой Врацким?",
@@ -86,7 +86,7 @@ type InterpretationRule = {
 }
 ```
 
-### ./tests/bug.json
+### ./data/tests/bug.json
 ```json
 {
     "title": "Являетесь ли вы Никитой Жуком?",

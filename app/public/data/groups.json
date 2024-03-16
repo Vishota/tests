@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Тесты на тип никиты",
+        "tests": [
+            { "previewTitle": "Тест на никиту врацкого", "file": "lie.json" },
+            { "previewTitle": "Тест на никиту жука", "file": "bug.json" }
+        ]
+    }
+]

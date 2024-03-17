@@ -1,4 +1,4 @@
-Root folder is app/public
+Root folder is app/src/assets
 
 ## Types
 

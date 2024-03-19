@@ -10,7 +10,8 @@
         "title": "Принятие решений и делегирование полномочий",
         "tests": [
             { "previewTitle": "Личностные факторы принятия решений", "file": "personality_factors.json" },
-            { "previewTitle": "Насколько успешно вы делегируете работу?", "file": "delegation.json" }
+            { "previewTitle": "Насколько успешно вы делегируете работу?", "file": "delegation.json" },
+            { "previewTitle": "Как вы принимаете решения?", "file": "decision_making.json" }
         ]
     }
 ]

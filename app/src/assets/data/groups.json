@@ -5,5 +5,11 @@
             { "previewTitle": "Тест на никиту врацкого", "file": "lie.json" },
             { "previewTitle": "Тест на никиту жука", "file": "bug.json" }
         ]
+    },
+    {
+        "title": "Принятие решений",
+        "tests": [
+            { "previewTitle": "Личностные факторы принятия решений", "file": "personality_factors.json" }
+        ]
     }
 ]

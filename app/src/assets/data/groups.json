@@ -1,17 +1,43 @@
 [
-    {
-        "title": "Тесты на тип никиты",
-        "tests": [
-            { "previewTitle": "Тест на никиту врацкого", "file": "lie.json" },
-            { "previewTitle": "Тест на никиту жука", "file": "bug.json" }
-        ]
-    },
-    {
-        "title": "Принятие решений и делегирование полномочий",
-        "tests": [
-            { "previewTitle": "Личностные факторы принятия решений", "file": "personality_factors.json" },
-            { "previewTitle": "Насколько успешно вы делегируете работу?", "file": "delegation.json" },
-            { "previewTitle": "Как вы принимаете решения?", "file": "decision_making.json" }
-        ]
-    }
+  {
+    "title": "Тесты на тип никиты",
+    "tests": [
+      { "previewTitle": "Тест на никиту врацкого", "file": "lie.json" },
+      { "previewTitle": "Тест на никиту жука", "file": "bug.json" }
+    ]
+  },
+  {
+    "title": "Принятие решений и делегирование полномочий",
+    "tests": [
+      {
+        "previewTitle": "Личностные факторы принятия решений",
+        "file": "personality_factors.json"
+      },
+      {
+        "previewTitle": "Насколько успешно вы делегируете работу?",
+        "file": "delegation.json"
+      },
+      {
+        "previewTitle": "Как вы принимаете решения?",
+        "file": "decision_making.json"
+      }
+    ]
+  },
+  {
+    "title": "Отбор персонала",
+    "tests": [
+      {
+        "previewTitle": "Исследование уровня агрессивности",
+        "file": "aggresion_Bass_Darky.json"
+      },
+      {
+        "previewTitle": "Тест на тревожность Спилбергера Ханина",
+        "file": "anxiety_Hanin.json"
+      },
+      {
+        "previewTitle": "«Диагностика лидерских способностей» Е.Жариков, Е.Крушельницкий",
+        "file": "leadership_abilities.json"
+      }
+    ]
+  }
 ]

@@ -13,5 +13,13 @@
             { "previewTitle": "Насколько успешно вы делегируете работу?", "file": "delegation.json" },
             { "previewTitle": "Как вы принимаете решения?", "file": "decision_making.json" }
         ]
+    },
+    {
+        "title": "Адаптация сотрудников",
+        "tests": [
+            { "previewTitle": "Адаптация персонала в организации", "file": "adaptation.json" },
+            { "previewTitle": "", "file": "" },
+            { "previewTitle": "", "file": "" }
+        ]
     }
 ]

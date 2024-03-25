@@ -18,8 +18,8 @@
         "title": "Адаптация сотрудников",
         "tests": [
             { "previewTitle": "Адаптация персонала в организации", "file": "adaptation.json" },
-            { "previewTitle": "Управление персоналом", "file": "adaptation_assessment.json" },
-            { "previewTitle": "", "file": "" }
+            { "previewTitle": "Оценка вашей адаптации к новой работе", "file": "adaptation_assessment.json" },
+            { "previewTitle": "Оценка адаптации нового сотрудника", "file": "adaptation_assessment_2.json" }
         ]
     }
 ]

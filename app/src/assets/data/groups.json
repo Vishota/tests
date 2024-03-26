@@ -21,5 +21,22 @@
             { "previewTitle": "Оценка вашей адаптации к новой работе", "file": "adaptation_assessment.json" },
             { "previewTitle": "Оценка адаптации нового сотрудника", "file": "adaptation_assessment_2.json" }
         ]
+    },
+    {
+      "title": "Отбор персонала",
+      "tests": [
+        {
+          "previewTitle": "Исследование уровня агрессивности",
+          "file": "aggresion_Bass_Darky.json"
+        },
+        {
+          "previewTitle": "Тест на тревожность Спилбергера Ханина",
+          "file": "anxiety_Hanin.json"
+        },
+        {
+          "previewTitle": "«Диагностика лидерских способностей» Е.Жариков, Е.Крушельницкий",
+          "file": "leadership_abilities.json"
+        }
+      ]
     }
 ]

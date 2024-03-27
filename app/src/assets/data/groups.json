@@ -1,42 +1,77 @@
 [
-    {
-        "title": "Тесты на тип никиты",
-        "tests": [
-            { "previewTitle": "Тест на никиту врацкого", "file": "lie.json" },
-            { "previewTitle": "Тест на никиту жука", "file": "bug.json" }
-        ]
-    },
-    {
-        "title": "Принятие решений и делегирование полномочий",
-        "tests": [
-            { "previewTitle": "Личностные факторы принятия решений", "file": "personality_factors.json" },
-            { "previewTitle": "Насколько успешно вы делегируете работу?", "file": "delegation.json" },
-            { "previewTitle": "Как вы принимаете решения?", "file": "decision_making.json" }
-        ]
-    },
-    {
-        "title": "Адаптация сотрудников",
-        "tests": [
-            { "previewTitle": "Адаптация персонала в организации", "file": "adaptation.json" },
-            { "previewTitle": "Оценка вашей адаптации к новой работе", "file": "adaptation_assessment.json" },
-            { "previewTitle": "Оценка адаптации нового сотрудника", "file": "adaptation_assessment_2.json" }
-        ]
-    },
-    {
-      "title": "Отбор персонала",
-      "tests": [
-        {
-          "previewTitle": "Исследование уровня агрессивности",
-          "file": "aggresion_Bass_Darky.json"
-        },
-        {
-          "previewTitle": "Тест на тревожность Спилбергера Ханина",
-          "file": "anxiety_Hanin.json"
-        },
-        {
-          "previewTitle": "«Диагностика лидерских способностей» Е.Жариков, Е.Крушельницкий",
-          "file": "leadership_abilities.json"
-        }
-      ]
-    }
+  {
+    "title": "Тесты на тип никиты",
+    "tests": [
+      { "previewTitle": "Тест на никиту врацкого", "file": "lie.json" },
+      { "previewTitle": "Тест на никиту жука", "file": "bug.json" }
+    ]
+  },
+  {
+    "title": "Принятие решений и делегирование полномочий",
+    "tests": [
+      {
+        "previewTitle": "Личностные факторы принятия решений",
+        "file": "personality_factors.json"
+      },
+      {
+        "previewTitle": "Насколько успешно вы делегируете работу?",
+        "file": "delegation.json"
+      },
+      {
+        "previewTitle": "Как вы принимаете решения?",
+        "file": "decision_making.json"
+      }
+    ]
+  },
+  {
+    "title": "Адаптация сотрудников",
+    "tests": [
+      {
+        "previewTitle": "Адаптация персонала в организации",
+        "file": "adaptation.json"
+      },
+      {
+        "previewTitle": "Оценка вашей адаптации к новой работе",
+        "file": "adaptation_assessment.json"
+      },
+      {
+        "previewTitle": "Оценка адаптации нового сотрудника",
+        "file": "adaptation_assessment_2.json"
+      }
+    ]
+  },
+  {
+    "title": "Отбор персонала",
+    "tests": [
+      {
+        "previewTitle": "Исследование уровня агрессивности",
+        "file": "aggresion_Bass_Darky.json"
+      },
+      {
+        "previewTitle": "Тест на тревожность Спилбергера Ханина",
+        "file": "anxiety_Hanin.json"
+      },
+      {
+        "previewTitle": "«Диагностика лидерских способностей» Е.Жариков, Е.Крушельницкий",
+        "file": "leadership_abilities.json"
+      }
+    ]
+  },
+  {
+    "title": "Мотивация персонала",
+    "tests": [
+      {
+        "previewTitle": "Мотивация к избеганию неудач (Т.Элерса)",
+        "file": "avoidance_motivation.json"
+      },
+      {
+        "previewTitle": "«Мотивация успеха и боязнь неудачи» (МУН) опросник А.А. Реана",
+        "file": "motivation_Rean.json"
+      },
+      {
+        "previewTitle": "Методика диагностики личности на мотивацию к успеху Т. Элерса",
+        "file": "success_motivation.json"
+      }
+    ]
+  }
 ]

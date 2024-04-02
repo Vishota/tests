@@ -365,7 +365,7 @@
   "interpretation": [
     { "condition": "default", "text": "Чел ты?" },
     {
-      "condition": { "from": -35, "to": -5 },
+      "condition": { "from": -35, "to": -4 },
       "text": "Вам характерна низкая тревожность"
     },
     {
@@ -373,7 +373,7 @@
       "text": "Вам характерна средняя тревожность"
     },
     {
-      "condition": { "from": 11 },
+      "condition": { "from": 10 },
       "text": "Вам характерна высокая тревожность"
     }
   ]

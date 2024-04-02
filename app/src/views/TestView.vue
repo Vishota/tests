@@ -20,17 +20,17 @@ import('@/assets/data/tests/' + route.params.file)
   })
 
 function finish() {
-  if(answers.value.length < test.questions.length || answers.value.length != Object.keys(answers.value).length) {
+  if (answers.value.length < test.questions.length || answers.value.length != Object.keys(answers.value).length) {
     askAnswerAll()
     return
   }
 
   let result = 0
-  
+
   answers.value.forEach((answer, question) => {
     result += test.questions[question].options[answer].value
-    if(test.questions[question].options[answer].value === undefined) console.log('bad');
-    
+    if (test.questions[question].options[answer].value === undefined) console.log('bad');
+
   })
 
   router.push(`/results/${route.params.file}-${result}`)
@@ -41,6 +41,11 @@ function askAnswerAll() {
 }
 </script>
 <template>
+  <RouterLink to="/">
+    <button class="commit-results-button">
+      На главную
+    </button>
+  </RouterLink>
   <div class="test-header">{{ test.title }}</div>
   <div class="questions">
     <div class="question-card" v-for="question, questionId in test.questions">
@@ -49,7 +54,8 @@ function askAnswerAll() {
       <fieldset class="options">
         <div>
           <div class="option" v-for="option, optionId in question.options">
-            <input type="radio" :id="`option-${questionId}-${optionId}`"  :value="optionId" v-model="answers[questionId]" />
+            <input type="radio" :id="`option-${questionId}-${optionId}`" :value="optionId"
+              v-model="answers[questionId]" />
             <label :for="`option-${questionId}-${optionId}`">{{ option.text }}</label>
           </div>
         </div>

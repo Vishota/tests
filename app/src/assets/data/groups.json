@@ -1,12 +1,5 @@
 [
     {
-        "title": "Тесты на тип никиты",
-        "tests": [
-            { "previewTitle": "Тест на никиту врацкого", "file": "lie.json" },
-            { "previewTitle": "Тест на никиту жука", "file": "bug.json" }
-        ]
-    },
-    {
         "title": "Принятие решений и делегирование полномочий",
         "tests": [
             { "previewTitle": "Личностные факторы принятия решений", "file": "personality_factors.json" },

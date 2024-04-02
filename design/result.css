@@ -41,7 +41,6 @@ body {
 .result-card {
     display: flex;
     flex-direction: column;
-    gap: 16px;
     border-radius: 18px;
     padding: 10px 16px;
     border: 1px solid #A4A4A4;
@@ -55,17 +54,17 @@ body {
     border-radius: 2px;
     margin-top: 16px;
     display: block;
+    margin-bottom: 16px;
 }
 
 .test-results {
     display: flex;
     flex-direction: column;
-    gap: 8px;
 }
 
 .test-result {
     display: flex;
-    gap: 8px;
+    margin-bottom: 8px;
 }
 
 .main-menu-button {

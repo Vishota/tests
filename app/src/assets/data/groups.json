@@ -62,8 +62,8 @@
         "file": "team_performance_assessment.json"
       },
       {
-        "previewTitle": "",
-        "file": ".json"
+        "previewTitle": "Какие сильные и слабые стороны есть у вашей команды?",
+        "file": "strengths_and_weaknesses.json"
       }
     ]
   },

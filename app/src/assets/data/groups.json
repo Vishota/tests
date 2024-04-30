@@ -100,5 +100,39 @@
         "file": "success_motivation.json"
       }
     ]
+  },
+  {
+    "title": "Управление проблемными сотрудниками",
+    "tests": [
+      {
+        "previewTitle": "Экспресс-диагностика состояния стресса",
+        "file": "express stress diagnosis.json"
+      },
+      {
+        "previewTitle": "Уровень конфликтности личности",
+        "file": "conflict level.json"
+      },
+      {
+        "previewTitle": "Методика диагностики агрессивности (Тест А.Ассингера)",
+        "file": "agresion diagnosis.json"
+      }
+    ]
+  },
+  {
+    "title": "Развитие персонала",
+    "tests": [
+      {
+        "previewTitle": "Диагностика волевого потенциала личности",
+        "file": "will potential diagnosis.json"
+      },
+      {
+        "previewTitle": "Какой вы руководитель",
+        "file": "management type.json"
+      },
+      {
+        "previewTitle": "Опросник самооценки биполярной эффективности руководства",
+        "file": "bipolar management efficiency.json"
+      }
+    ]
   }
 ]

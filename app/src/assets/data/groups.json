@@ -45,8 +45,8 @@
         "file": "system_efficiency.json"
       },
       {
-        "previewTitle": "",
-        "file": ""
+        "previewTitle": "Соответствует ли система компенсации и стимулирования вашей компании рыночным условиям?",
+        "file": "system_compliance.json"
       }
     ]
   },
